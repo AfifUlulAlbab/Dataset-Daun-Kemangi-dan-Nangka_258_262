@@ -24,5 +24,5 @@ Examples :
 - 100 images, format jpeg.
 
 ## Authors
-Branstito Inggil Pakerti Shofiyulloh / 202010370311258
-Afif Ulul Albab / 202010370311262
+(!Branstito Inggil Pakerti Shofiyulloh)[https://github.com/branstitoinggil] / 202010370311258
+(!Afif Ulul Albab)[https://github.com/AfifUlulAlbab] / 202010370311262
